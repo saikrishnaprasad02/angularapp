@@ -5,5 +5,5 @@
 
 
 :host-context(.theme-light) h2 {
-    background-color: #eef;
+    background-color: rgb(255, 110, 110);
   }
